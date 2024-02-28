@@ -9,3 +9,5 @@ var produto = {
 console.log(produto.id);
 console.log(produto.nome);
 console.log(produto.valor);
+
+
